@@ -77,9 +77,6 @@ h2{
   margin-bottom: 144px;
 }
 
-.hero__title {
-    margin-bottom: 60px;
-}
 .navbar__link{
     position: relative;
     display: block;
@@ -129,8 +126,13 @@ h2{
     max-width: 540px;
 }
 
+.hero__title {
+  margin-bottom: 60px;
+  margin: 0 0 44px;
+}
+
 .hero__description{
-    margin-bottom: 60px;
+    margin-bottom: 56px;
     color:var(--color-secondary);
 }
 
