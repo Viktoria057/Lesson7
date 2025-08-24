@@ -300,7 +300,6 @@ h2 {
     text-align: center;
     gap: var(--gap-sm);
   }
-
 }
 
 @media (max-width: 375px) {
