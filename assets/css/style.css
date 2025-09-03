@@ -395,11 +395,6 @@ template{
 .about__description{
   color:#727272;
 }
-
-.work{
-  background-color:#EEEFF1;
-}
-
 @media (max-width: 768px){
   h1{
     font-size:2.2rem;
@@ -415,7 +410,6 @@ template{
         justify-content:space-around;
   }
 }
-
 @media (max-width: 430px){
   h1{
     font-size:2rem;
