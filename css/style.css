@@ -319,6 +319,7 @@ h2 {
   .experience__container {
     gap: var(--gap);
     justify-content: space-around;
+    
   }
 
   .experience-item {
