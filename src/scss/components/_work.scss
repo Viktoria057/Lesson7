@@ -1,0 +1,19 @@
+@use '../presets' as *;
+
+.work {
+    background-color: $color-light-grey;
+    
+    padding-top: 110px;
+    padding-bottom: 90px;
+    text-align: center;
+
+    &__title {
+        font-weight: $font-weight-medium;
+        line-height: $line-height-sm;
+        margin-bottom: 40px;
+    }
+
+    &__description{
+        color: $color-secondary;
+      }
+}

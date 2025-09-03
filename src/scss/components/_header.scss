@@ -1,0 +1,7 @@
+@use '../presets' as *;
+
+.header {
+    padding-top: 79px;
+    padding-bottom: 141px;
+    background-color: $color-light-grey;
+}
