@@ -16,26 +16,26 @@
     &__item {
         display: flex;
         gap: var(--gap);
-    }
 
-    &-description {
-        line-height: 1;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
-
-    &-value {
-        font-size: 1.3125rem;
-        font-weight: var(--font-weight-medium);
-    }
-
-
-    &-picture {
-        order: -1;
-    }
-
-    &-image {
-        display: block;
+        &-description {
+            line-height: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+    
+        &-value {
+            font-size: 1.3125rem;
+            font-weight: var(--font-weight-medium);
+        }
+    
+    
+        &-picture {
+            order: -1;
+        }
+    
+        &-image {
+            display: block;
+        }
     }
 }
